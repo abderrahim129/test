@@ -1,0 +1,62 @@
+body{
+    background-color: #F3EAE3;
+    text-transform: capitalize;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+img{
+    width: 300px;
+    height: 450px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.perfume{
+    color: rgb(128, 127, 127);
+    padding-top: 20px;
+    font-size: larger;
+}
+
+.price-one{
+    color:#408169;
+}
+.price-two{
+    color: rgb(128, 127, 127);
+    transform: translate(20px, 12px);
+
+}
+.par{
+    color: rgb(128, 127, 127);
+    line-height: 26px;
+    width: 230px;
+}
+
+a{
+    background-color: #1A4031;
+    color: white;
+    text-decoration: none;
+    padding: 10px 70px;
+    border-radius: 6px;
+    margin-left: 35px;
+}
+.writing{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 20px;
+
+}
+.price{
+    display: flex;
+}
+.product{
+    display: flex;
+    transform: translate(30%, 30%);
+}
+.Gabrielle{
+    margin-bottom: 30px;
+}
